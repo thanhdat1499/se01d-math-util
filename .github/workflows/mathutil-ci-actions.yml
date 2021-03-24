@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: MathUtil project | CI process included | © 2021 by giao.lang
+name: MathUtil project | CI process included | © 2021 by datlt
 
 # Controls when the action will run. 
 on:
