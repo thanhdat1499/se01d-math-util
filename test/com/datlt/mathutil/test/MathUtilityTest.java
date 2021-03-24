@@ -54,7 +54,7 @@ public class MathUtilityTest {
     //thấy ngoại lệ khi đưa n cà chớn, mừng rơi nước mắt vì hàm chạy đúng như thiết kế
     //ngoại lệ không phải là giá trị để so sánh kiểu assertEquals()
     //@Test(expected = Exception.class)    //ko nên bắt mức cao nhất
-                                           //mặc dù ko sai
+                                           //mặc dù ko saipwd
     @Test(expected = IllegalArgumentException.class)
     public void getFactorialGivenWrongArgumentThrowsException(){
         MathUtility.getFactorial(40);
